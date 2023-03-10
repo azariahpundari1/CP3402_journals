@@ -1,4 +1,4 @@
-# Week 2, prac 01
+# Week 2, Learning journal 1
 
 ## Learning Activities
 This week I mainly focused on the HTML aspect of the assignment, I did however read through the bootstrap docs to gain a basic understanding of how to use bootstrap, bootstrap templates and to integrate bootstraps css into my HTML.
