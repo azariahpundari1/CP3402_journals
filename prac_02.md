@@ -32,3 +32,9 @@ The best part about this was namepage like brrrruuuuuuuh, we can edit a webpage 
 ## Career/Employability/Learning Insights
 
 Joomla is a free open source web development and CMS platform. As joomla is the second most used CMS (word press being the first) I believe joomla wont be dying out in the near future hence I am more then likely to be using it. From my short experience, joomla is relatively good for the front-end and back-end aspect of web development so I do plan on using this in the future if I get into web development as my career of choice - mostly because it gets easier to use after playing around with it. Sadly, we havent covered much of the back-end side yet but I am keen on learning more about how to integrate the front and back-end together.  
+
+For employability, I dont think companies will hire someone who doesn't know how to use the resources (CMS) that are already available and not effectively show that I can maintain a steady workflow. The steps I can take now to improve are:
+
+1. Learn more & nderstand each individual components of joomla - especially the links/expired links and relinking (this stopped work flow for a while)
+2. Learn how to manually create articles/categories and menus instead of using a template - I think this is a core principle that must be learnt completely (assuming its similar to other CMS's).
+3. Slow down and stop being anxious - progress can be slow sometimes, as long as you're moving forward thats a win.
