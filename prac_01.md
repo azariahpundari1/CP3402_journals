@@ -1,6 +1,7 @@
 # Week 2, Learning journal 1
 
 ## Learning Activities
+
 This week I mainly focused on the HTML aspect of the assignment, I did however read through the bootstrap docs to gain a basic understanding of how to use bootstrap, bootstrap templates and to integrate bootstraps css into my HTML.
 
 (career) I found reading the bootstrap docs to be helpful and all IT organziations or anything to do with programming to web apps will have their docs to read through. It is good practice to get into the habit to read the docs.
